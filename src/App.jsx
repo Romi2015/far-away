@@ -15,6 +15,7 @@ export default function App() {
     <div className="app">
       {/* this the logo page  */}
       <Logo />
+      {/* this is the form page  */}
       <Form />
       <PackingList />
       <Stats />
