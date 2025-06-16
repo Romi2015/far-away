@@ -13,6 +13,7 @@ const tripItems = [
 export default function App() {
   return (
     <div className="app">
+      {/* this the logo page  */}
       <Logo />
       <Form />
       <PackingList />
